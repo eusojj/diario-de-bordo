@@ -7,6 +7,7 @@
   - [Exemplo — Formação de equipe](blog/2027-03-10-formacao-de-equipe-exemplo.md)
   - [Primeiro envio](blog/2026-09-23-formacao-da-equipe.md)
   - [Segundo envio](blog/2026-10-07-segundo-envio.md)
+  - [Terceiro envio](blog/2026-10-28-terceiro-envio.md)
 
 <!--
 Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
